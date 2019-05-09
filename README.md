@@ -5,4 +5,4 @@ This project is a clone of an old apple.com website as seen [here](https://web.a
 Moses Ogwo
 
 #Live Version
-[Click here to view live version]()
+-[Click here to view live version](https://raw.githack.com/mosesogwo/Apple-Clone/development/index.html)
