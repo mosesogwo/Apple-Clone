@@ -17,18 +17,16 @@ a:hover {
 
 .main-container {
     align-items: center;
-    background: #67b11c url("../images/bg-image2.jpg") 0% 100% no-repeat;
-    background-size: contain;
+    background: #fff url("../images/bg-image2.jpg") 0% 100% no-repeat;
+    background-size: cover;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     padding-bottom: 120px;
     padding-top: 30px;
 }
 
 nav {
-    background: red;
-    background-image: linear-gradient(to right, #868f96 0%, #596164 100%);
+    background: linear-gradient(0deg, #8F8F8F 44%, #5E5E5E 53%, #737373 100%);
     border-radius: 10px;
     margin-bottom: 100px;
     padding: 10px 0;
