@@ -19,7 +19,6 @@ a:hover {
     align-items: center;
     background: #67b11c url("../images/bg-image2.jpg") 0% 100% no-repeat;
     background-size: contain;
-    display: -webkit-flex;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -66,7 +65,6 @@ nav img {
 }
 
 .products {
-    display: -webkit-flex;
     display: flex;
 }
 
@@ -81,7 +79,6 @@ nav img {
 }
 
 footer {
-    display: -webkit-flex;
     display: flex;
     font-size: 11px;
     padding: 25px 10px;
